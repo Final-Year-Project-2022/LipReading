@@ -1,0 +1,44 @@
+label {
+  background-color: indigo;
+  color: white;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-family: "museo-sans-fontspring", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif;
+  color: #565656;
+}
+
+#upload-input {
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+}
+
+textarea {
+  background-color: #dddddd;
+  color: grey;
+}
+
+#loader {
+  display: none;
+}
+
+p {
+  font-family: "museo-sans-fontspring", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif;
+  color: #525252;
+}
+
+a {
+  color: #00c7e4;
+  text-decoration: none;
+}
